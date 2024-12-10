@@ -1,0 +1,3 @@
+JMH S 23 org.dalhousie.trie.Trie S 46 org.dalhousie.trie.generated.Trie_Trie_jmhTest S 4 Trie S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 26 org.dalhousie.trie.HashMap S 52 org.dalhousie.trie.generated.HashMap_hashMap_jmhTest S 7 hashMap S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 23 org.dalhousie.trie.Trie S 49 org.dalhousie.trie.generated.Trie_hashMap_jmhTest S 7 hashMap S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
